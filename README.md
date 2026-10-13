@@ -74,3 +74,5 @@ export default defineConfig([
 
 ```
 # pokemon-competitive-tool
+
+This is my Pokemon Competitive tool. It is going to be able to when you look up a pokemon show you the name, types and stats. This is a beginner project right now but I am hoping on expenading it to be a anaysis project where went you put in a pokemon you are able to see how to make the strongest team out of it. 
